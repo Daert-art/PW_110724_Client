@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PW_110724_Client", "PW_110724_Client\PW_110724_Client.csproj", "{C6801230-9677-446A-931E-019201E308D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PW_110724_Client", "PW_110724_Client\PW_110724_Client.csproj", "{C6801230-9677-446A-931E-019201E308D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PW_110724_AsyncClient", "PW_110724_AsyncClient\PW_110724_AsyncClient.csproj", "{EC2787D2-8D88-4343-9916-75E09EA1F448}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C6801230-9677-446A-931E-019201E308D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6801230-9677-446A-931E-019201E308D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6801230-9677-446A-931E-019201E308D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2787D2-8D88-4343-9916-75E09EA1F448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2787D2-8D88-4343-9916-75E09EA1F448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2787D2-8D88-4343-9916-75E09EA1F448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2787D2-8D88-4343-9916-75E09EA1F448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
